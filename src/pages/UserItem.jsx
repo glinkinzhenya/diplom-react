@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 
 import { Card, CardActions, CardContent, CardMedia, Button, Typography, styled, Box } from "@mui/material";
-import "./UserItem.css"
 // export default function UserItem(props) {
 // делаем деструктуризацию
 

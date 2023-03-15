@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import './App.css';
 import Header from './pages/Header';
 import Left from './pages/Left';
