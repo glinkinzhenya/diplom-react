@@ -1,0 +1,10 @@
+
+.App {
+        min-width: 100vw;
+        max-height: 50vh;
+}
+
+.container {
+  display: flex;
+}
+
